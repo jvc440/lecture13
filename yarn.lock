@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@framer/ismael.google-maps@^2.2.0":
+  version "2.2.0"
+  resolved "https://registry.framer.com/@framer/ismael.google-maps/-/@framer/ismael.google-maps-2.2.0.tgz#f4246628cad1b719557093d59764307bb81144da"
+  integrity sha512-SUEhYJ3HIzHW2ykWOmssnHkukWLR5glf0kjuQjMQ2LIuSv+UHOP+dkmHZy1j+BtfAcAwtQeLujyPWtdYktDXWA==
+
 "@types/prop-types@*":
   version "15.7.0"
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.0.tgz#4c48fed958d6dcf9487195a0ef6456d5f6e0163a"

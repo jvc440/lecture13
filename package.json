@@ -11,5 +11,8 @@
 	"framer": {
 		"id": "f9f3805a-9ca8-4d62-8336-66d30b3ae093"
 	},
-	"author": "Jovica Sevic"
+	"author": "Jovica Sevic",
+	"dependencies": {
+		"@framer/ismael.google-maps": "^2.2.0"
+	}
 }
